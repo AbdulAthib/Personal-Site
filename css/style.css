@@ -117,11 +117,15 @@ p{
 }
 
 .top-container{
-    height: 900px;
+    height: 56rem;
     width: 100%;
     text-align: center;
     background-image: url("../Images/C1-bg.jpg");
     background-size: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 2rem;
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    background-repeat: no-repeat;
 }    
 
